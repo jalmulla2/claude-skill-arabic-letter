@@ -1,4 +1,4 @@
-# Arabic Letter — a Claude Skill
+# Arabic Letter — Claude Skill
 
 A [Claude skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) that writes formal Arabic letters and official correspondence (خطابات رسمية) in the conventional Gulf government and organizational style.
 
@@ -15,8 +15,8 @@ Give it a rough description in English or Arabic (who it's to, who it's from, wh
 **Claude Code**
 
 ```bash
-git clone https://github.com/jalmulla2/arabic-letter-skill.git
-cp -r arabic-letter-skill/arabic-letter ~/.claude/skills/
+git clone https://github.com/jalmulla2/claude-skill-arabic-letter.git
+cp -r claude-skill-arabic-letter/arabic-letter ~/.claude/skills/
 ```
 
 **Claude.ai / Claude Desktop**
